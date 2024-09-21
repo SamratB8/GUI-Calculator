@@ -1,6 +1,7 @@
 import javax.swing.*;
 import java.awt.event.*;
 import java.math.BigDecimal;
+import java.util.Scanner;
 
 public class GUI_Calculator
 {
